@@ -1,7 +1,7 @@
 # SQL Data Analysis Project
 
 ## Dataset
-**Chinook SQLite Database** — a publicly available relational dataset that represents a digital music store.  
+**Chinook SQLite Database**: A publicly available relational dataset that represents a digital music store.  
 The database contains multiple related tables, including customers, invoices, invoice lines, tracks, albums, and artists, making it suitable for demonstrating relational database concepts and SQL analysis.
 
 ---
